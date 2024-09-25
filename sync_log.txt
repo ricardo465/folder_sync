@@ -1,0 +1,2 @@
+2024-09-24 10:06:06,348 - INFO - File C:/Users/Fábio e Ricardo/Dropbox/PC/Desktop/folder_sync/source\aaa.txt copied to C:/Users/Fábio e Ricardo/Dropbox/PC/Desktop/folder_sync/replica\aaa.txt
+2024-09-24 10:06:06,348 - INFO - File C:/Users/Fábio e Ricardo/Dropbox/PC/Desktop/folder_sync/replica\aaa.txt copied to C:/Users/Fábio e Ricardo/Dropbox/PC/Desktop/folder_sync/source\aaa.txt
